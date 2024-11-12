@@ -1,6 +1,6 @@
 services:
   app:
-    image: hamidmolareza/quera-readme-generator:latest
+    image: hamidmolareza/quera-readme-generator:v1
     volumes:
       - ../.git:/app/data/.git
       - ../Solutions:/app/data/Solutions
