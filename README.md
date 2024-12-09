@@ -53,14 +53,14 @@ Number of solutions: **375**
     <td><a href="https://quera.org/problemset/265387/">ستارگان آینده گلرنگ</a></td>
     <td><a href="https://github.com/HamidMolareza/Quera/blob/master/Solutions/265387/front-end">front-end</a></td>
     <td>09-12-2024</td>
-    <td><div style="display: flex; flex-direction: row; gap: 2px;"><a href="" title="1 commits"><img src="https://github.com/HamidMolareza/Quera/blob/master/docs/images/user-profile.png?raw=true" alt="ARiYaNSEp0-0" style="border-radius:100%" width="32px" height="32px"></a></div></td>
+    <td><div style="display: flex; flex-direction: row; gap: 2px;"><a href="https://github.com/ARiYaNSEp0-0" title="1 commits"><img src="https://avatars.githubusercontent.com/u/157750903?v=4" alt="ARiYaNSEp0-0" style="border-radius:100%" width="32px" height="32px"></a></div></td>
   </tr>
   <tr id="265386">
     <td><a href="#265386">265386</a></td>
     <td><a href="https://quera.org/problemset/265386/">دستور پخت</a></td>
     <td><a href="https://github.com/HamidMolareza/Quera/blob/master/Solutions/265386/front-end">front-end</a></td>
     <td>09-12-2024</td>
-    <td><div style="display: flex; flex-direction: row; gap: 2px;"><a href="" title="1 commits"><img src="https://github.com/HamidMolareza/Quera/blob/master/docs/images/user-profile.png?raw=true" alt="ARiYaNSEp0-0" style="border-radius:100%" width="32px" height="32px"></a></div></td>
+    <td><div style="display: flex; flex-direction: row; gap: 2px;"><a href="https://github.com/ARiYaNSEp0-0" title="1 commits"><img src="https://avatars.githubusercontent.com/u/157750903?v=4" alt="ARiYaNSEp0-0" style="border-radius:100%" width="32px" height="32px"></a></div></td>
   </tr>
   <tr id="66548">
     <td><a href="#66548">66548</a></td>
