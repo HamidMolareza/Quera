@@ -2,9 +2,9 @@
 
 Go to [main page](../README.md).
 
-Number of problems solved: **197**
+Number of problems solved: **198**
 
-Number of solutions: **374**
+Number of solutions: **375**
 
 <table>
   <tr>
@@ -13,6 +13,13 @@ Number of solutions: **374**
     <th>Solutions</th>
     <th>Last commit</th>
     <th>Contributors</th>
+  </tr>
+  <tr id="265387">
+    <td><a href="#265387">265387</a></td>
+    <td><a href="https://quera.org/problemset/265387/">ستارگان آینده گلرنگ</a></td>
+    <td><a href="https://github.com/HamidMolareza/Quera/blob/master/Solutions/265387/front-end">front-end</a></td>
+    <td>09-12-2024</td>
+    <td><div style="display: flex; flex-direction: row; gap: 2px;"><a href="" title="1 commits"><img src="https://github.com/HamidMolareza/Quera/blob/master/docs/images/user-profile.png?raw=true" alt="ARiYaNSEp0-0" style="border-radius:100%" width="32px" height="32px"></a></div></td>
   </tr>
   <tr id="265386">
     <td><a href="#265386">265386</a></td>
