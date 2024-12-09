@@ -36,9 +36,9 @@ See [this repository](https://github.com/HamidMolareza/LeetCode)
 
 See the complete list in [this page](docs/CompleteList.md).
 
-Number of problems solved: **198**
+Number of problems solved: **199**
 
-Number of solutions: **375**
+Number of solutions: **376**
 
 <table>
   <tr>
@@ -47,6 +47,13 @@ Number of solutions: **375**
     <th>Solutions</th>
     <th>Last commit</th>
     <th>Contributors</th>
+  </tr>
+  <tr id="265388">
+    <td><a href="#265388">265388</a></td>
+    <td><a href="https://quera.org/problemset/265388/">بستن مودال</a></td>
+    <td><a href="https://github.com/HamidMolareza/Quera/blob/master/Solutions/265388/front-end">front-end</a></td>
+    <td>09-12-2024</td>
+    <td><div style="display: flex; flex-direction: row; gap: 2px;"><a href="https://github.com/ARiYaNSEp0-0" title="1 commits"><img src="https://avatars.githubusercontent.com/u/157750903?v=4" alt="ARiYaNSEp0-0" style="border-radius:100%" width="32px" height="32px"></a></div></td>
   </tr>
   <tr id="265387">
     <td><a href="#265387">265387</a></td>
@@ -740,13 +747,6 @@ Number of solutions: **375**
     <td><a href="https://github.com/HamidMolareza/Quera/blob/master/Solutions/3410/c++/program.cpp">c++</a> - <a href="https://github.com/HamidMolareza/Quera/blob/master/Solutions/3410/python3">python3</a> - <a href="https://github.com/HamidMolareza/Quera/blob/master/Solutions/3410/csharp">csharp</a></td>
     <td>25-11-2022</td>
     <td><div style="display: flex; flex-direction: row; gap: 2px;"><a href="https://github.com/HamidMolareza/" title="4 commits"><img src="https://avatars.githubusercontent.com/u/35568753?v=4" alt="Hamid Molareza" style="border-radius:100%" width="32px" height="32px"></a></div></td>
-  </tr>
-  <tr id="3429">
-    <td><a href="#3429">3429</a></td>
-    <td><a href="https://quera.org/problemset/3429/">یخدارچی</a></td>
-    <td><a href="https://github.com/HamidMolareza/Quera/blob/master/Solutions/3429/c++/program.cpp">c++</a> - <a href="https://github.com/HamidMolareza/Quera/blob/master/Solutions/3429/python3">python3</a></td>
-    <td>25-11-2022</td>
-    <td><div style="display: flex; flex-direction: row; gap: 2px;"><a href="https://github.com/HamidMolareza/" title="2 commits"><img src="https://avatars.githubusercontent.com/u/35568753?v=4" alt="Hamid Molareza" style="border-radius:100%" width="32px" height="32px"></a></div></td>
   </tr>
 </table>
 
