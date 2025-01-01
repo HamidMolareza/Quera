@@ -1,5 +1,9 @@
 import React from "react";
-const initialItems = ["Item 1", "Item 2", "Item 3", "Item 4", "Item 5"];
+
+const initialItems = Array.from({ length: 5 }, (_, i) => ({
+  value: `Item ${i + 1}`,
+  id: Math.floor(Math.random() * 1000),
+}));
 
 function DragDropList() {
   const [list, setList] = React.useState(initialItems);
@@ -27,16 +31,16 @@ function DragDropList() {
     <>
       <h1>DRAG AND DROP</h1>
       <ul data-testid="list">
-        {list.map((item, index) => (
+        {list.map(({ value, id }, index) => (
           <li
-            key={index}
+            key={id}
             draggable
             onDragStart={() => onDragStart(index)}
             onDragOver={(e) => e.preventDefault()}
             onDrop={() => onDrop(index)}
             onDragEnd={onDragEnd}
           >
-            {item}
+            {value}
           </li>
         ))}
       </ul>
