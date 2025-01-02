@@ -16,7 +16,7 @@ function DragDropList() {
   const onDrop = (droppedId) => {
     const newList = [...list];
     const draggedItemIndex = draggedItemRef.current;
-    const draggedItem = newList.splice(draggedItemIndex, 1)[0];
+    const [draggedItem] = newList.splice(draggedItemIndex, 1);
 
     newList.splice(droppedId, 0, draggedItem);
     draggedItemRef.current = null;
