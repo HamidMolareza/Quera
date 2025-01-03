@@ -52,8 +52,8 @@ Number of solutions: **377**
     <td><a href="#265389">265389</a></td>
     <td><a href="https://quera.org/problemset/265389/">کشیدن و رها کردن</a></td>
     <td><a href="https://github.com/HamidMolareza/Quera/blob/master/Solutions/265389/front-end">front-end</a></td>
-    <td>01-01-2025</td>
-    <td><div style="display: flex; flex-direction: row; gap: 2px;"><a href="https://github.com/ARiYaNSEp0-0" title="2 commits"><img src="https://avatars.githubusercontent.com/u/157750903?v=4" alt="ARiYaNSEp0-0" style="border-radius:100%" width="32px" height="32px"></a></div></td>
+    <td>03-01-2025</td>
+    <td><div style="display: flex; flex-direction: row; gap: 2px;"><a href="https://github.com/ARiYaNSEp0-0" title="3 commits"><img src="https://avatars.githubusercontent.com/u/157750903?v=4" alt="ARiYaNSEp0-0" style="border-radius:100%" width="32px" height="32px"></a> <a href="https://github.com/HamidMolareza/" title="1 commits"><img src="https://avatars.githubusercontent.com/u/35568753?v=4" alt="Hamid Molareza" style="border-radius:100%" width="32px" height="32px"></a></div></td>
   </tr>
   <tr id="265388">
     <td><a href="#265388">265388</a></td>
